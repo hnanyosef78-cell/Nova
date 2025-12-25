@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nova-9ny.pages.dev/sitemap.xml
